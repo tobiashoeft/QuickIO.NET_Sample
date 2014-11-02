@@ -1,0 +1,12 @@
+I:\Programming\QuickIO.NET_Sample\bin\Debug\QuickIO.NET_Sample.exe.config
+I:\Programming\QuickIO.NET_Sample\bin\Debug\QuickIO.NET_Sample.exe
+I:\Programming\QuickIO.NET_Sample\bin\Debug\QuickIO.NET_Sample.pdb
+I:\Programming\QuickIO.NET_Sample\bin\Debug\SchwabenCode.QuickIO.dll
+I:\Programming\QuickIO.NET_Sample\bin\Debug\SchwabenCode.QuickIO.pdb
+I:\Programming\QuickIO.NET_Sample\bin\Debug\SchwabenCode.QuickIO.xml
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.csprojResolveAssemblyReference.cache
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.Form1.resources
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.Properties.Resources.resources
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.csproj.GenerateResource.Cache
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.exe
+I:\Programming\QuickIO.NET_Sample\obj\Debug\QuickIO.NET_Sample.pdb
